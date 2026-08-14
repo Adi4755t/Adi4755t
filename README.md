@@ -217,7 +217,7 @@ Prometheus · Grafana · API Architecture
 
 <td width="58%" valign="top">
 
-## 🔥 Hybrid RAG Reranker
+## ◈ Hybrid RAG Reranker
 
 A retrieval and reranking system focused on improving the quality and relevance of results in **RAG pipelines**.
 
