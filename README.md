@@ -64,29 +64,67 @@ I work across **full-stack development, AI/ML, backend engineering and cloud/dev
 
 ---
 
-## 🚀 Featured Project
-
-### 🤖 AI Student Productivity & Accountability Agent
-
-An AI-powered student assistant designed to help students understand their academic situation, generate study plans and stay accountable.
-
-**Tech:**  
-`Node.js` `Express` `LangGraph` `Qwen` `MongoDB` `MCP` `OAuth`
-
-**Architecture highlights:**
-
-- 🧠 LangGraph-based agent workflow
-- 🔀 Intent routing and multi-step agent execution
-- 📚 Automated study-plan generation
-- ✅ Plan validation and rewriting
-- 🎯 Accountability / commitment analysis
-- 🔐 OAuth integrations
-- 🔌 MCP-based tool integration
-- ⚡ Node.js backend architecture
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Adi4755t/student-ai-agent)
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+<h2>🔥 Hybrid RAG Reranker</h2>
+
+<p>
+A hybrid retrieval and reranking system focused on improving
+the relevance and quality of results in RAG pipelines.
+</p>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/RAG-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Retrieval-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Reranking-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-181717?style=flat-square"/>
+</p>
+
+<br>
+
+<a href="https://github.com/Adi4755t/Hybrid-RAG-Reranker">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="42%" valign="top">
+
+<h3>🤖 AI Student Productivity Agent</h3>
+
+<p>
+An AI-powered student assistant designed to generate
+study plans and provide accountability.
+</p>
+
+<p>
+<code>Node.js</code>
+<code>LangGraph</code>
+<code>Qwen</code>
+<code>MongoDB</code>
+<code>MCP</code>
+</p>
+
+<br>
+
+<a href="https://github.com/Adi4755t/student-ai-agent">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
