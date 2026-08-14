@@ -1,45 +1,163 @@
 <div align="center">
 
-# Hey, I'm Aditya 👋
+# Aditya Chintala
 
-### Full-Stack Developer • Agentic AI Enthusiast • Engineering Student
+### Agentic AI Engineer • Full-Stack Developer
 
-Building **AI-powered applications, intelligent agents and full-stack systems.**
+Building intelligent systems that combine  
+**AI Agents · LLMs · Full-Stack Engineering · Cloud Deployment**
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Adi4755t?style=for-the-badge&logo=github&label=Followers)](https://github.com/Adi4755t)
-[![GitHub stars](https://img.shields.io/github/stars/Adi4755t?style=for-the-badge&logo=github&label=Stars)](https://github.com/Adi4755t?tab=repositories)
+<a href="https://github.com/Adi4755t">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Adi4755t?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+## About
+
+I'm an **Information Technology engineering student** focused on building intelligent software at the intersection of **Agentic AI and full-stack engineering**.
+
+I'm particularly interested in how AI systems can move beyond simple chat interfaces and become **agents that reason, use tools, interact with external systems and execute real workflows**.
+
+I enjoy taking an idea all the way from:
+
+**AI / Agent → Backend → Frontend → Database → Container → Cloud Deployment**
+
+My current focus is **AI Engineering, Agentic AI, backend systems and deploying production-oriented applications.**
+
+<br>
+
+<div align="center">
+
+`AI Agents` &nbsp; `LLM Applications` &nbsp; `Full-Stack` &nbsp; `Backend` &nbsp; `Cloud`
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# Agentic AI
 
-I'm an **Information Technology engineering student** interested in building intelligent software that combines **AI engineering, agentic systems, full-stack development and deployment**.
+<div align="center">
 
-My main interest is **AI Agents** — understanding how LLMs can reason, use tools, interact with external systems and become part of real-world applications.
+### The part of technology I'm most interested in.
 
-I enjoy building applications across the entire stack, from **AI/LLM workflows and backend APIs to frontend interfaces, databases, containers and cloud deployments**.
+<br>
 
-- 🤖 Deeply interested in **AI Agents & Agentic AI**
-- 🧠 Exploring **LLM applications, tool calling, MCP & agent workflows**
-- ⚙️ Building backends with **Node.js, Express & Spring Boot**
-- ⚛️ Building full-stack applications with **React**
-- 🐳 Exploring **Docker, CI/CD & cloud deployments**
-- ☁️ Interested in deploying and scaling AI-powered applications
-- 🚀 Always learning by building real systems
+<table>
+<tr>
+
+<td align="center" width="150">
+
+<img src="https://cdn.simpleicons.org/langchain" width="42"/>
+
+<br><br>
+
+<b>LangChain</b>
+
+</td>
+
+<td align="center" width="150">
+
+<div style="font-size:32px">◈</div>
+
+<br>
+
+<b>LangGraph</b>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.simpleicons.org/huggingface" width="42"/>
+
+<br><br>
+
+<b>Hugging Face</b>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://cdn.simpleicons.org/google" width="42"/>
+
+<br><br>
+
+<b>Gemini</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/ollama" width="42"/>
+
+<br><br>
+
+<b>Ollama</b>
+
+</td>
+
+<td align="center">
+
+<div style="font-size:30px">✦</div>
+
+<br>
+
+<b>AI Agents</b>
+
+</td>
+
+<td align="center">
+
+<div style="font-size:30px">⌘</div>
+
+<br>
+
+<b>MCP</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/python" width="42"/>
+
+<br><br>
+
+<b>Python</b>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+**LangChain · LangGraph · Hugging Face · Gemini · Ollama · AI Agents · MCP**
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# Engineering Stack
 
-### Languages
+<table>
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
-</p>
+<td valign="top" width="50%">
 
 ### Frontend
 
@@ -47,39 +165,81 @@ I enjoy building applications across the entire stack, from **AI/LLM workflows a
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
+React · JavaScript · Tailwind CSS · Vite
+
+</td>
+
+<td valign="top" width="50%">
+
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
 </p>
 
-### 🤖 Agentic AI & AI Engineering
+Node.js · Express · Spring Boot · Flask
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
+
+Java · Python · JavaScript
+
+</td>
+
+<td valign="top">
+
+### Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=langchain,langgraph,huggingface,ollama" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 </p>
+
+MongoDB · PostgreSQL · Redis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=gemini" />
+<img src="https://skillicons.dev/icons?i=docker,azure,githubactions" />
 </p>
 
-**LangChain • LangGraph • Hugging Face • Gemini • Ollama • AI Agents • MCP**
+Docker · Azure · GitHub Actions · CI/CD
 
-### Databases & Infrastructure
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,azure,githubactions" />
-</p>
+<td valign="top">
 
-**REST APIs • OAuth • JWT • Prometheus • Grafana • CI/CD**
+### Engineering
+
+REST APIs · OAuth · JWT · Authentication  
+Prometheus · Grafana · API Architecture
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+# Featured Work
 
 <div align="center">
 
@@ -88,52 +248,47 @@ I enjoy building applications across the entire stack, from **AI/LLM workflows a
 
 <td width="58%" valign="top">
 
-<h2>🔥 Hybrid RAG Reranker</h2>
-
-<p>
-A hybrid retrieval and reranking system focused on improving
-the relevance and quality of results in RAG pipelines.
-</p>
+## 🔥 Hybrid RAG Reranker
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/RAG-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/Retrieval-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/Reranking-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-181717?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-181717?style=flat-square"/>
-</p>
+A retrieval and reranking system focused on improving the quality and relevance of results in **RAG pipelines**.
 
 <br>
+
+**RAG**  
+**Retrieval**  
+**Reranking**  
+**LLM Applications**
+
+<br><br>
 
 <a href="https://github.com/Adi4755t/Hybrid-RAG-Reranker">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="42%" valign="top">
 
-<h3>🤖 AI Student Productivity Agent</h3>
-
-<p>
-An AI-powered student assistant designed to generate
-study plans and provide accountability.
-</p>
-
-<p>
-<code>Node.js</code>
-<code>LangGraph</code>
-<code>Qwen</code>
-<code>MongoDB</code>
-<code>MCP</code>
-</p>
+## 🤖 Student AI Agent
 
 <br>
 
+An AI-powered productivity and accountability system built around **agent workflows, planning and intelligent automation**.
+
+<br>
+
+`Node.js`  
+`LangGraph`  
+`Qwen`  
+`MongoDB`  
+`MCP`
+
+<br><br>
+
 <a href="https://github.com/Adi4755t/student-ai-agent">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -145,107 +300,94 @@ study plans and provide accountability.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adi4755t&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi4755t&layout=compact&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Adi4755t&hide_border=true" />
-
-</div>
-
----
-
-## 📡 Developer Status
+# Developer Status
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-### 🟢 CURRENTLY BUILDING
+<td width="50%" valign="top">
 
-🤖 **AI Student Productivity Agent**
+### 🟢 Building
 
-`LangGraph` `MCP` `Node.js` `MongoDB`
+**Hybrid RAG Reranker**
 
-Building an intelligent student assistant
-with planning, accountability and tool calling.
+Exploring retrieval pipelines, reranking and improving the quality of context supplied to LLM applications.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 CURRENTLY LEARNING
+### 🧠 Exploring
 
-⚙️ **Spring Boot & Security**
+**Agentic AI Engineering**
 
-☁️ **Docker & Azure**
-
-🤖 **AI Agents & MCP**
-
-🏗️ **Distributed Systems**
+LangGraph · MCP · Tool Calling · LLM Workflows
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### ⚡ FOCUS
+<td width="50%" valign="top">
 
-**AI Engineering + Full-Stack Development**
+### ⚙️ Engineering
 
-Building practical applications that combine
-LLMs, intelligent agents, APIs, databases,
-frontend systems and deployment.
+**Full-Stack Systems**
+
+React → APIs → Backend → Database → Docker
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Deployment
+
+**Cloud & Infrastructure**
+
+Docker → Azure → CI/CD → Production Systems
 
 </td>
 
-<td width="50%">
-
-### 🎯 GOAL
-
-Become a strong **AI / Full-Stack Engineer**
-
-building and deploying intelligent applications
-that combine **Agentic AI with modern software engineering**.
-
-</td>
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+# How I Like To Build
+
+<div align="center">
 
 ```text
-AI Agents
-     ↓
-LangChain → LangGraph → MCP
-     ↓
-Tool Calling → OAuth → Agentic Workflows
-     ↓
-Real-world AI Applications
-
-Full-Stack Engineering
-     ↓
-React → Node.js → Spring Boot
-     ↓
-REST APIs → Security → Databases
-     ↓
-Docker → Azure → CI/CD
-     ↓
-Deployment & Scalable Systems
+                    ┌──────────────┐
+                    │   AI AGENT   │
+                    └──────┬───────┘
+                           │
+                    Reasoning + Tools
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   BACKEND    │
+                    │ Node / Java  │
+                    └──────┬───────┘
+                           │
+                    APIs + Data
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │  FULL STACK  │
+                    │ React + Web  │
+                    └──────┬───────┘
+                           │
+                    Containerization
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   DEPLOYED   │
+                    │ Azure + CI/CD│
+                    └──────────────┘
