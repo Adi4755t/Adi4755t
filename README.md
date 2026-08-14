@@ -25,15 +25,16 @@ My main interest is **AI Agents** — understanding how LLMs can reason, use too
 
 I enjoy taking an idea all the way from **AI / Agent → Backend → Frontend → Database → Container → Cloud Deployment**.
 
-My current focus is **AI Engineering, Agentic AI, backend systems and deploying production-oriented applications.**
+My current focus is **AI Engineering, Agentic AI, full-stack development and backend systems**, with experience building applications using both **Node.js and Spring Boot**.
 
 - 🤖 Deeply interested in **AI Agents & Agentic AI**
-- 🧠 Exploring **LLM applications, tool calling, MCP & agent workflows**
-- ⚙️ Building backends with **Node.js, Express & Spring Boot**
+- 🧠 Exploring **LLM applications, RAG, tool calling, MCP & agent workflows**
+- ⚙️ Building backend systems with **Node.js, Express & Spring Boot**
+- 🔄 Comfortable switching between **Node.js and Spring Boot** based on project requirements
 - ⚛️ Building full-stack applications with **React**
 - 🐳 Exploring **Docker, CI/CD & cloud deployments**
-- ☁️ Interested in deploying and scaling AI-powered applications
-- 🚀 Always learning by building real systems
+- ☁️ Interested in deploying and scaling **AI-powered applications**
+- 🚀 Always learning by **building and shipping real systems**
 
 ---
 
