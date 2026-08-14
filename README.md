@@ -384,24 +384,6 @@ Containerizing and deploying applications to the cloud.
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adi4755t&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi4755t&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Adi4755t&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
 # 🎯 What I'm Interested In
 
 <div align="center">
