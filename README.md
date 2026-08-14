@@ -1,5 +1,7 @@
 <div align="center">
 
+<div align="center">
+
 # Aditya Chintala
 
 ### Agentic AI Enthusiast • Full-Stack Developer • Engineering Student
@@ -10,6 +12,16 @@ Building **AI-powered applications, intelligent agents and full-stack systems.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Adi4755t?style=for-the-badge&logo=github&label=Followers)](https://github.com/Adi4755t)
 [![GitHub stars](https://img.shields.io/github/stars/Adi4755t?style=for-the-badge&logo=github&label=Stars)](https://github.com/Adi4755t?tab=repositories)
+
+<br>
+
+<a href="https://www.linkedin.com/in/aditya-chintala-6549a62bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Chintala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:adi4755t@gmail.com">
+  <img src="https://img.shields.io/badge/Email-adi4755t%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
