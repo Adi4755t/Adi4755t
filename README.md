@@ -2,9 +2,9 @@
 
 # Hey, I'm Aditya 👋
 
-### Full-Stack Developer • AI/ML Enthusiast • Engineering Student
+### Full-Stack Developer • Agentic AI Enthusiast • Engineering Student
 
-Building **AI-powered applications, backend systems and developer tools.**
+Building **AI-powered applications, intelligent agents and full-stack systems.**
 
 <br>
 
@@ -17,16 +17,19 @@ Building **AI-powered applications, backend systems and developer tools.**
 
 ## 👨‍💻 About Me
 
-I'm an **Information Technology engineering student** who enjoys turning ideas into working software.
+I'm an **Information Technology engineering student** interested in building intelligent software that combines **AI engineering, agentic systems, full-stack development and deployment**.
 
-I work across **full-stack development, AI/ML, backend engineering and cloud/devops**, with a particular interest in building systems that combine traditional software with modern AI.
+My main interest is **AI Agents** — understanding how LLMs can reason, use tools, interact with external systems and become part of real-world applications.
 
-- 🔭 Currently building **AI-powered applications & agentic systems**
-- 🤖 Exploring **LLM applications, AI Agents, LangGraph & MCP**
-- ⚙️ Working with **Node.js, Express & Spring Boot**
-- 🐳 Learning **Docker, AWS & modern DevOps**
-- 🧠 Interested in scalable backend architecture and intelligent automation
-- 🚀 Always experimenting, building and learning
+I enjoy building applications across the entire stack, from **AI/LLM workflows and backend APIs to frontend interfaces, databases, containers and cloud deployments**.
+
+- 🤖 Deeply interested in **AI Agents & Agentic AI**
+- 🧠 Exploring **LLM applications, tool calling, MCP & agent workflows**
+- ⚙️ Building backends with **Node.js, Express & Spring Boot**
+- ⚛️ Building full-stack applications with **React**
+- 🐳 Exploring **Docker, CI/CD & cloud deployments**
+- ☁️ Interested in deploying and scaling AI-powered applications
+- 🚀 Always learning by building real systems
 
 ---
 
@@ -50,17 +53,29 @@ I work across **full-stack development, AI/ML, backend engineering and cloud/dev
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
 </p>
 
-### AI / Machine Learning
+### 🤖 Agentic AI & AI Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=langchain,langgraph,huggingface,ollama" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=gemini" />
+</p>
 
 **LangChain • LangGraph • Hugging Face • Gemini • Ollama • AI Agents • MCP**
 
 ### Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,aws,githubactions" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,azure,githubactions" />
 </p>
 
-**REST APIs • OAuth • JWT • Prometheus • Grafana**
+**REST APIs • OAuth • JWT • Prometheus • Grafana • CI/CD**
 
 ---
 
@@ -175,7 +190,7 @@ with planning, accountability and tool calling.
 
 ⚙️ **Spring Boot & Security**
 
-☁️ **Docker & AWS**
+☁️ **Docker & Azure**
 
 🤖 **AI Agents & MCP**
 
@@ -189,10 +204,11 @@ with planning, accountability and tool calling.
 
 ### ⚡ FOCUS
 
-**AI + Backend Engineering**
+**AI Engineering + Full-Stack Development**
 
-Building practical systems that combine
-LLMs, APIs, databases and automation.
+Building practical applications that combine
+LLMs, intelligent agents, APIs, databases,
+frontend systems and deployment.
 
 </td>
 
@@ -200,9 +216,10 @@ LLMs, APIs, databases and automation.
 
 ### 🎯 GOAL
 
-Become a strong **Full-Stack / Backend Engineer**
+Become a strong **AI / Full-Stack Engineer**
 
-while going deeper into **AI & Agentic Systems**.
+building and deploying intelligent applications
+that combine **Agentic AI with modern software engineering**.
 
 </td>
 </tr>
@@ -215,16 +232,20 @@ while going deeper into **AI & Agentic Systems**.
 ## 🧠 Currently Learning
 
 ```text
-Spring Boot
-     ↓
-REST APIs → Spring Security → JWT
-     ↓
-Docker → AWS → CI/CD
-     ↓
-Microservices & Distributed Systems
-
 AI Agents
      ↓
 LangChain → LangGraph → MCP
      ↓
 Tool Calling → OAuth → Agentic Workflows
+     ↓
+Real-world AI Applications
+
+Full-Stack Engineering
+     ↓
+React → Node.js → Spring Boot
+     ↓
+REST APIs → Security → Databases
+     ↓
+Docker → Azure → CI/CD
+     ↓
+Deployment & Scalable Systems
