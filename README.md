@@ -235,7 +235,7 @@ A retrieval and reranking system focused on improving the quality and relevance 
 
 <td width="42%" valign="top">
 
-## 🤖 Student AI Agent
+## ◈ Student AI Agent
 
 An AI-powered productivity and accountability system built around **agent workflows, planning and intelligent automation**.
 
@@ -326,7 +326,7 @@ Docker → Azure → CI/CD → Production Systems
 
 <td align="center" width="25%">
 
-### 🤖
+### ◈
 
 **AI Agents**
 
