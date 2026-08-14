@@ -8,8 +8,8 @@ Building **AI-powered applications, backend systems and developer tools.**
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Adi4755t?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/Adi4755t)
-[![GitHub stars](https://img.shields.io/github/stars/Adi4755t?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/Adi4755t?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Adi4755t?style=for-the-badge&logo=github&label=Followers)](https://github.com/Adi4755t)
+[![GitHub stars](https://img.shields.io/github/stars/Adi4755t?style=for-the-badge&logo=github&label=Stars)](https://github.com/Adi4755t?tab=repositories)
 
 </div>
 
@@ -21,12 +21,12 @@ I'm an **Information Technology engineering student** who enjoys turning ideas i
 
 I work across **full-stack development, AI/ML, backend engineering and cloud/devops**, with a particular interest in building systems that combine traditional software with modern AI.
 
-* 🔭 Currently building **AI-powered applications & agentic systems**
-* 🤖 Exploring **LLM applications, AI Agents, LangGraph & MCP**
-* ⚙️ Working with **Node.js, Express & Spring Boot**
-* 🐳 Learning **Docker, AWS & modern DevOps**
-* 🧠 Interested in scalable backend architecture and intelligent automation
-* 🚀 Always experimenting, building and learning
+- 🔭 Currently building **AI-powered applications & agentic systems**
+- 🤖 Exploring **LLM applications, AI Agents, LangGraph & MCP**
+- ⚙️ Working with **Node.js, Express & Spring Boot**
+- 🐳 Learning **Docker, AWS & modern DevOps**
+- 🧠 Interested in scalable backend architecture and intelligent automation
+- 🚀 Always experimenting, building and learning
 
 ---
 
@@ -52,10 +52,6 @@ I work across **full-stack development, AI/ML, backend engineering and cloud/dev
 
 ### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
 **LangChain • LangGraph • Hugging Face • Gemini • Ollama • AI Agents • MCP**
 
 ### Databases & Infrastructure
@@ -74,25 +70,29 @@ I work across **full-stack development, AI/ML, backend engineering and cloud/dev
 
 An AI-powered student assistant designed to help students understand their academic situation, generate study plans and stay accountable.
 
-**Tech:**
+**Tech:**  
 `Node.js` `Express` `LangGraph` `Qwen` `MongoDB` `MCP` `OAuth`
 
 **Architecture highlights:**
 
-* 🧠 LangGraph-based agent workflow
-* 🔀 Intent routing and multi-step agent execution
-* 📚 Automated study-plan generation
-* ✅ Plan validation and rewriting
-* 🎯 Accountability / commitment analysis
-* 🔐 OAuth integrations
-* 🔌 MCP-based tool integration
-* ⚡ Node.js backend architecture
+- 🧠 LangGraph-based agent workflow
+- 🔀 Intent routing and multi-step agent execution
+- 📚 Automated study-plan generation
+- ✅ Plan validation and rewriting
+- 🎯 Accountability / commitment analysis
+- 🔐 OAuth integrations
+- 🔌 MCP-based tool integration
+- ⚡ Node.js backend architecture
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/Adi4755t/student-ai-agent)
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Adi4755t/student-ai-agent)
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -112,11 +112,63 @@ An AI-powered student assistant designed to help students understand their acade
 
 ---
 
-## 📈 Contribution Graph
+## 📡 Developer Status
 
 <div align="center">
 
-[![Aditya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi4755t\&hide_border=true)](https://github.com/Adi4755t)
+<table>
+<tr>
+<td width="50%">
+
+### 🟢 CURRENTLY BUILDING
+
+🤖 **AI Student Productivity Agent**
+
+`LangGraph` `MCP` `Node.js` `MongoDB`
+
+Building an intelligent student assistant
+with planning, accountability and tool calling.
+
+</td>
+
+<td width="50%">
+
+### 🧠 CURRENTLY LEARNING
+
+⚙️ **Spring Boot & Security**
+
+☁️ **Docker & AWS**
+
+🤖 **AI Agents & MCP**
+
+🏗️ **Distributed Systems**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ FOCUS
+
+**AI + Backend Engineering**
+
+Building practical systems that combine
+LLMs, APIs, databases and automation.
+
+</td>
+
+<td width="50%">
+
+### 🎯 GOAL
+
+Become a strong **Full-Stack / Backend Engineer**
+
+while going deeper into **AI & Agentic Systems**.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -138,45 +190,3 @@ AI Agents
 LangChain → LangGraph → MCP
      ↓
 Tool Calling → OAuth → Agentic Workflows
-```
-
----
-
-## 🎯 What I Like Building
-
-```text
-AI Applications
-      +
-Backend Systems
-      +
-Developer Tools
-      +
-Automation
-      ↓
-Useful Software
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in interesting projects, AI applications,
-backend engineering and opportunities to build something useful.
-
-<br>
-
-<a href="https://github.com/Adi4755t">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ Build. Break. Learn. Repeat.
-
-</div>
