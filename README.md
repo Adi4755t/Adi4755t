@@ -243,7 +243,7 @@ A **LangGraph-based AI agent** that turns student intent into adaptive study wor
 
 <br>
 
-`Node.js` `LangGraph` `Qwen` `MongoDB` `MCP`
+`Node.js` `LangGraph` `agents` `MongoDB` `ollama`
 
 <br><br>
 
