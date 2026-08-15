@@ -239,7 +239,7 @@ A retrieval and reranking system focused on improving the quality and relevance 
 
 ## 🤖 Student AI Agent
 
-An AI-powered productivity and accountability system built around **agent workflows, planning and intelligent automation**.
+A **LangGraph-based AI agent** that turns student intent into adaptive study workflows using planning, validation, rewriting, blocker analysis and commitment handling.
 
 <br>
 
